@@ -1,0 +1,1 @@
+ Data jako Nick email, telefon si přepiš, další řádky přidáš překopírováním předchozího. A následně si ho pak upravíš dle sebe. Stejným způsobem si v první části kódu změnís ikonu podpisu. Pozor ne každý obrázek se může sdílet!!!
